@@ -1,8 +1,11 @@
+### top
+    
 # README-Generator
-## things
+
+## Generates a README for any Github project using Node, Javascript, The NPM to Install Inquirer and fs
 
 ## Badge 
-* stuff
+* [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
 
@@ -15,27 +18,28 @@
 
 ## Installation
 
-* things
+```fork this project, open in VS terminal and answer the questions to populate your very own README!```
 
 ## Usage
 
-* stuff
+* to quickly create a readme for any Github project
 
 ## License
 
-
-* [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+* [MIT License](https://opensource.org/licenses/MIT)
 
 ## Contributing
 
-* tstas
+* credit to: Node, Inquirer and fs
 
 ## Tests
 
-* asdf
+* after creating, open in preview and check info, can edit from there or create tests in Jest or using console.log in terminal
 
 ## Questions
 
-* asdf
+### Contact Me at: **[github.com/jessamyn27](https://github.com/jessamyn27)**
 
-**[Back Up To Top](#README-Generator)**
+## Thanks for Checking Out my README for README-Generator
+
+**[Back Up To Top](###top)**
