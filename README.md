@@ -1,7 +1,6 @@
 ### top
 
-## Demo Video 
-**[click to watch](https://drive.google.com/file/d/1dihJ)
+### Demo Video [click to watch](https://drive.google.com/file/d/1dihJ)
     
 # README-Generator
 
