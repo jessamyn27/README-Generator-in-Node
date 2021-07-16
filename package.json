@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.1.2",
+    "util": "^0.12.4"
+  },
+  "name": "readme-generator-in-node",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessamyn27/README-Generator-in-Node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessamyn27/README-Generator-in-Node/issues"
+  },
+  "homepage": "https://github.com/jessamyn27/README-Generator-in-Node#readme"
+}
